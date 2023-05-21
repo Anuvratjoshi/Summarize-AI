@@ -7,7 +7,7 @@ const Hero = () => {
 
             <nav className='flex justify-between items-center w-full mb-10 pt-3'>
                 <img src={logo} alt="summary_logo" className='w-28 object-contain' />
-                <button onClick={() => window.open("https://github.com/Anuvratjoshi")} className='black_btn'>GitHub</button>
+                <button onClick={() => window.open("https://github.com/Anuvratjoshi/Summarize-AI/tree/master")} className='black_btn'>GitHub</button>
             </nav>
 
             <h1 className='head_text'>
